@@ -16,7 +16,7 @@ Tích hợp với các công cụ phát triển khác như GitHub, Travis CI, v�
 API : https://jsonplaceholder.typicode.com/users
 
 
-4. Kiểm thử :
+3. Kiểm thử :
    GET :
    ![get](https://github.com/Cuongpham14/postman/assets/96830691/f1550271-9c75-425d-a8e3-92aa76e864ae)
    POST :
