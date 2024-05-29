@@ -1,14 +1,20 @@
 1. Postman là gì?
+
+   
 Postman là một ứng dụng desktop và web được sử dụng để thiết kế, xây dựng, kiểm tra và sử dụng các API (Application Programming Interface). Nó cung cấp một giao diện đơn giản và trực quan để tạo, lưu trữ và chia sẻ các yêu cầu API, giúp cho việc phát triển và kiểm thử API trở nên dễ dàng hơn.
-2. Các tính năng chính của Postman:
+3. Các tính năng chính của Postman:
+
+   
 Tạo và lưu trữ các yêu cầu API
 Xem và phân tích phản hồi API
 Tạo các biến môi trường và tập hợp yêu cầu
 Thực hiện các API tests tự động
 Chia sẻ và hợp tác với các đồng nghiệp
 Tích hợp với các công cụ phát triển khác như GitHub, Travis CI, và Jenkins
+
+
 API : https://jsonplaceholder.typicode.com/users
-3. Kiểm thử :
+4. Kiểm thử :
    GET :
    ![get](https://github.com/Cuongpham14/postman/assets/96830691/f1550271-9c75-425d-a8e3-92aa76e864ae)
    POST :
