@@ -22,7 +22,7 @@ API : https://jsonplaceholder.typicode.com/users
    POST :
    ![post](https://github.com/Cuongpham14/postman/assets/96830691/c186467a-6f48-4961-955e-115e80d641ca)
 
-   PUSH :
+   PUT :
    ![put](https://github.com/Cuongpham14/postman/assets/96830691/c4a2516e-ca6a-491b-897d-6db8f33985e7)
    DELETE :
    ![Delete](https://github.com/Cuongpham14/postman/assets/96830691/b2d5677c-fe8e-4615-bca8-5dad9e69d4a3)
